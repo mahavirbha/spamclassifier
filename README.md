@@ -40,8 +40,8 @@ Network URL: http://192.168.1.113:8501
 
 Example Outputs:
 
-![Screenshot (234).png](..%2F..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%20%28234%29.png)
+![Screenshot (234).png](Screenshot%20%28234%29.png)
 
-![Screenshot (235).png](..%2F..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%20%28235%29.png)
+![Screenshot (235).png](Screenshot%20%28235%29.png)
 
-![Screenshot (236).png](..%2F..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%20%28236%29.png)
+![Screenshot (236).png](Screenshot%20%28236%29.png)
